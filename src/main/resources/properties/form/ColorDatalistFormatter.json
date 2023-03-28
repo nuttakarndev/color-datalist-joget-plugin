@@ -1,0 +1,25 @@
+[
+  {
+    "title": "@@form.ColorDatalistFormatter.config@@",
+    "properties": [
+      {
+        "name": "showLabel",
+        "label": "@@form.ColorDatalistFormatter.showLabel@@",
+        "type": "CheckBox",
+        "value": "@@form.ColorDatalistFormatter.showLabel.value@@",
+        "options": [
+          {
+            "value": "True",
+            "label": ""
+          }
+        ]
+      },
+      {
+        "name": "fontColor",
+        "label": "@@form.ColorDatalistFormatter.fontColor@@",
+        "type": "TextField",
+        "value": "@@form.ColorDatalistFormatter.fontColor.value@@"
+      }
+    ]
+  }
+]
